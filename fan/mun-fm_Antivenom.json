@@ -1,13 +1,13 @@
 {
   "boxId": "MUN-FM01",
-  "img": "./heroes/Anti-venom.jpg",
+  "img": "https://www.dropbox.com/s/g9kaqqj131mslsa/Anti-venom.jpg?dl=0",
   "name": {
     "text": "Anti-venom",
     "locText": "Anti-venom"
   },
   "characters": [
     {
-      "img": "./heroes/Anti-venom.jpg",
+      "img": "https://www.dropbox.com/s/g9kaqqj131mslsa/Anti-venom.jpg?dl=0",
       "loyalty": "hero",
       "name": {
         "text": "Anti-venom",
@@ -24,7 +24,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "./heroes/Anti-venom01.jpg",
+          "img": "https://www.dropbox.com/s/i3r31k9r753wv1q/Anti-venom01.jpg?dl=0",
           "title": {
             "text": "Anti-venom",
             "locText": "Anti-venom"
