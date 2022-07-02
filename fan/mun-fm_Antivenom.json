@@ -1,0 +1,316 @@
+{
+  "boxId": "MUN-KS09",
+  "img": "heroes/Anti-venom.jpg",
+  "name": {
+    "text": "Anti-venom",
+    "locText": "Anti-venom"
+  },
+  "characters": [
+    {
+      "img": "heroes/Anti-venom.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Anti-venom",
+        "locText": "Anti-venom"
+      },
+      "realName": {
+        "text": "Anti-venom",
+        "locText": "Anti-venom"
+      },
+      "bio": {
+        "text": "Anti-venom acts as leader of the Ravagers, a ruthless army of unscrupulous space pirates and mercenaries.Long ago he was hired to capture the young Earthling Peter Quill, a.k.a. Star-Lord, through a last-minute change of heart, caused Anti-venom to betray his employer and bring Quill into the fold as one of his own, serving almost as a surrogate father. Though he occasionally shows faint glimmers of compassion, Anti-venom's greed more often causes him to betray even his closest allies any time the promise of some quick credits is involved.",
+        "locText": "Anti-venom actúa como líder de los Ravagers, un ejército despiadado de mercenarios y piratas espaciales sin escrúpulos. Hace mucho tiempo fue contratado para capturar al joven terrícola Peter Quill, también conocido como Star-Lord, a través de un cambio de opinión de último minuto, hizo que Anti-venom traicionara su empleador y traer a Quill al redil como uno de los suyos, sirviendo casi como un padre sustituto. Aunque ocasionalmente muestra tenues destellos de compasión, la codicia de Anti-venom lo hace traicionar con mayor frecuencia incluso a sus aliados más cercanos cada vez que se trata de la promesa de algunos créditos rápidos."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom01.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom02.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom03.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom04.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom05.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom06.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom07.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom08.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom09.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom10.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "YAKA ARROW WHIRLWIND",
+              "locText": null
+            },
+            "description": {
+              "text": "Starting from your Location and going clockwise, defeat 1 THUG in each Location. Only stop when there are no THUG in the next Location.",
+              "locText": "Anti-venom"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom11.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "YAKA ARROW FLURRY",
+              "locText": null
+            },
+            "description": {
+              "text": "Deal ATTACK ATTACK ATTACK split as you like in your and adjacent Locations.",
+              "locText": "Anti-venom"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-venom12.jpg",
+          "title": {
+            "text": "Anti-venom",
+            "locText": "Anti-venom"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "TURNCOAT",
+              "locText": null
+            },
+            "description": {
+              "text": "You may turn each CIVILIAN into a THUG and each THUG into a CIVILIAN in your Location.",
+              "locText": "Anti-venom"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    }
+  ]
+}
