@@ -1,13 +1,13 @@
 {
   "boxId": "MUN-FM01",
-  "img": "https://www.dropbox.com/s/g9kaqqj131mslsa/Anti-venom.jpg?dl=0",
+  "img": "https://www.dropbox.com/s/g9kaqqj131mslsa/Anti-venom.jpg",
   "name": {
     "text": "Anti-venom",
     "locText": "Anti-venom"
   },
   "characters": [
     {
-      "img": "https://www.dropbox.com/s/g9kaqqj131mslsa/Anti-venom.jpg?dl=0",
+      "img": "https://www.dropbox.com/s/g9kaqqj131mslsa/Anti-venom.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Anti-venom",
@@ -24,7 +24,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "https://www.dropbox.com/s/i3r31k9r753wv1q/Anti-venom01.jpg?dl=0",
+          "img": "https://www.dropbox.com/s/i3r31k9r753wv1q/Anti-venom01.jpg",
           "title": {
             "text": "Anti-venom",
             "locText": "Anti-venom"
@@ -45,7 +45,7 @@
         },
         {
           "cardType": "hero",
-          "img": "./heroes/Anti-venom02.jpg",
+          "img": "heroes/Anti-venom02.jpg",
           "title": {
             "text": "Anti-venom",
             "locText": "Anti-venom"
@@ -67,7 +67,7 @@
         },
         {
           "cardType": "hero",
-          "img": "Gerardcrich/TestMU/heroes/Anti-venom03.jpg",
+          "img": "https://github.com/Gerardcrich/TestMU/blob/e4c00a3749942e4df568f825c0811a39de92ed74/heroes/Anti-venom03.jpg",
           "title": {
             "text": "Anti-venom",
             "locText": "Anti-venom"
