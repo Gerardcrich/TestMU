@@ -1,13 +1,13 @@
 {
   "boxId": "MUN-FM01",
-  "img": "Gerardcrich/TestMU/heroes/Anti-venom.png",
+  "img": "./heroes/Anti-venom.png",
   "name": {
     "text": "Anti-venom",
     "locText": "Anti-venom"
   },
   "characters": [
     {
-      "img": "Gerardcrich/TestMU/heroes/Anti-venom.png",
+      "img": "./heroes/Anti-venom.png",
       "loyalty": "hero",
       "name": {
         "text": "Anti-venom",
@@ -24,7 +24,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Anti-venom01.png",
+          "img": "./heroes/Anti-venom01.png",
           "title": {
             "text": "Anti-venom",
             "locText": "Anti-venom"
