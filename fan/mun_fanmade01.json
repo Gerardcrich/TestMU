@@ -23,8 +23,8 @@
         "locText": "Robert Bruce Banner"
       },
       "bio": {
-        "text": "A massive dose of gamma radiation transformed the brilliant but meek scientist Bruce Banner into the jade giant known as the Grey Hulk. Often targeted by those who misunderstand him, Grey Hulk prefers to use his immense power to smash the forces of evil, proving to the world that he is the strongest hero there is!",
-        "locText": "Una dosis masiva de radiación gamma transformó al brillante pero dócil científico Bruce Banner en el gigante de jade conocido como Grey Hulk. A menudo atacado por aquellos que lo malinterpretan, Grey Hulk prefiere usar su inmenso poder para aplastar las fuerzas del mal, demostrando al mundo que es ¡el héroe más fuerte que existe!"
+        "text": "",
+        "locText": ""
       },
       "cards": [
         {
@@ -933,6 +933,621 @@
           "bam": null,
           "actions": [
             "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    },
+    {
+      "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/00.png",
+      "loyalty": "hero",
+      "name": {
+        "text": "Scarlet Spider",
+        "locText": "Scarlet Spider"
+      },
+      "realName": {
+        "text": "Benjamin Reilly",
+        "locText": "Benjamin Reilly"
+      },
+      "bio": {
+        "text": "",
+        "locText": ""
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/01.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Impact Webbing",
+              "locText": "Impact Webbing"
+            },
+            "description": {
+              "text": "Attack Attack Attack Move the Villain to an adjacent Location",
+              "locText": "Attack Attack Attack Move the Villain to an adjacent Location"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/02.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Paralyzing Stingers",
+              "locText": "Paralyzing Stingers"
+            },
+            "description": {
+              "text": "Villain can't leave from their current Location on their next turn",
+              "locText": "Villain can't leave from their current Location on their next turn"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/03.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Webslinging",
+              "locText": "Webslinging"
+            },
+            "description": {
+              "text": "Gain 2 Move tokens",
+              "locText": "Gain 2 Move tokens"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/04.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/05.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/06.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/07.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/08.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/09.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/10.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/11.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/scarletspider/12.png",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    },
+    {
+      "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/00.png",
+      "loyalty": "hero",
+      "name": {
+        "text": "Morbius",
+        "locText": "Morbius"
+      },
+      "realName": {
+        "text": "Michael Morbius",
+        "locText": "Michael Morbius"
+      },
+      "bio": {
+        "text": "",
+        "locText": ""
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/01.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Psionic Strike",
+              "locText": "Psionic Strike"
+            },
+            "description": {
+              "text": "Move to any Location and Attack",
+              "locText": "Move to any Location and Attack"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/02.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Vampiric Healing",
+              "locText": "Vampiric Healing"
+            },
+            "description": {
+              "text": "As long as this card is face up in the styory line, you may discard 1 Thug from your location and draw 1 card",
+              "locText": "As long as this card is face up in the styory line, you may discard 1 Thug from your location and draw 1 card"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/03.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Mesmerize",
+              "locText": "Mesmerize"
+            },
+            "description": {
+              "text": "Flip any number of Citizens or Thugs at this Hero's Location to their opposite side and Attack Heroic",
+              "locText": "Flip any number of Citizens or Thugs at this Hero's Location to their opposite side and Attack Heroic"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/04.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/05.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/06.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/07.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/08.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/09.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/10.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/11.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/morbius/12.png",
+          "title": {
+            "text": "Morbius",
+            "locText": "Morbius"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
           ],
           "add": null,
           "lifePoints": null,
