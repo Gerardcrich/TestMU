@@ -635,6 +635,314 @@
       ],
       "dashboard": null,
       "tokens": null
+    },
+    {
+      "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/00.png",
+      "loyalty": "hero",
+      "name": {
+        "text": "Antivenom",
+        "locText": "Antivenom"
+      },
+      "realName": {
+        "text": "Eddie Brock",
+        "locText": "Eddie Brock"
+      },
+      "bio": {
+        "text": "",
+        "locText": ""
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/01.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/02.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/03.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/04.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/05.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/06.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/07.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/08.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/09.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/10.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ESP",
+              "locText": "ESP"
+            },
+            "description": {
+              "text": "You cannot take any damage until the beginning of your next turn",
+              "locText": "You cannot take any damage until the beginning of your next turn"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/11.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Matter Manipulation",
+              "locText": "Matter Manipulation"
+            },
+            "description": {
+              "text": "Double each Attack you use this turn",
+              "locText": "Double each Attack you use this turn"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/antivenom/12.png",
+          "title": {
+            "text": "Antivenom",
+            "locText": "Antivenom"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Ultimate Cleanse",
+              "locText": "Ultimate Cleanse"
+            },
+            "description": {
+              "text": "Villain may not play a Master Plan card until the beginning of their next turn",
+              "locText": "Villain may not play a Master Plan card until the beginning of their next turn"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
     }
   ]
 }
