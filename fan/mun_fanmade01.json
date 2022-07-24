@@ -326,6 +326,315 @@
       ],
       "dashboard": null,
       "tokens": null
+    },
+    {
+      "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/00.png",
+      "loyalty": "hero",
+      "name": {
+        "text": "US Agent",
+        "locText": "US Agent"
+      },
+      "realName": {
+        "text": "John Walker",
+        "locText": "John Walker"
+      },
+      "bio": {
+        "text": "",
+        "locText": ""
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/01.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/02.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/03.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/04.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/05.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/06.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/07.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/08.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/09.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": true,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/10.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Leadership",
+              "locText": "Leadership"
+            },
+            "description": {
+              "text": "Give a Wile token from the pool to any Hero",
+              "locText": "Give a Wile token from the pool to any Hero"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/11.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Leadership",
+              "locText": "Leadership"
+            },
+            "description": {
+              "text": "Give a Wile token from the pool to any Hero",
+              "locText": "Give a Wile token from the pool to any Hero"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "https://gerardcrich.github.io/mypics/MU_TEST/usagent/12.png",
+          "title": {
+            "text": "US Agent",
+            "locText": "US Agent"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Leadership",
+              "locText": "Leadership"
+            },
+            "description": {
+              "text": "Give a Wile token from the pool to any Hero",
+              "locText": "Give a Wile token from the pool to any Hero"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
     }
   ]
 }
