@@ -70,7 +70,7 @@
           "startingHand": null,
           "bottomDeck": null
         },
-        {
+        {     
           "cardType": "hero",
           "img": "https://gerardcrich.github.io/mypics/MU_TEST/greyhulk/03.png",
           "title": {
@@ -215,7 +215,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -515,7 +515,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -536,7 +536,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -823,7 +823,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -844,7 +844,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -1156,7 +1156,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -1178,7 +1178,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -1464,7 +1464,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
@@ -1486,7 +1486,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
