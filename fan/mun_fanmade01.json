@@ -246,7 +246,7 @@
           "add": null,
           "lifePoints": null,
           "locationEffect": null,
-          "startingHand": true,
+          "startingHand": null,
           "bottomDeck": null
         },
         {
